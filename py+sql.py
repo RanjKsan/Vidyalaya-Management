@@ -1,9 +1,9 @@
 # ***************SRDF VIDYALAYA CHROMEPET **********************"
 # ******************VIDYALAYA MANAGER *****************************"
 # *******Designed and Maintained By:"
-# *******RANJINI- CLASS XII D - ROLL NO - 2 [ 2019-2020 ]"
-# *******GM- CLASS XII A - ROLL NO - 7 [ 2019-2020 ]"
-# *******GM - CLASS XII A - ROLL NO - 8 [ 2019-2020 ]"
+# *******L- CLASS - ROLL NO - 2 [ 2019-2020 ]"
+# *******GM- CLASS  - ROLL NO - 7 [ 2019-2020 ]"
+# *******GM - CLASS - ROLL NO - 8 [ 2019-2020 ]"
 
 import mysql.connector
 
