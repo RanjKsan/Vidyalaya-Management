@@ -1,4 +1,4 @@
-# ***************SRDF VIDYALAYA CHROMEPET **********************"
+# ***************SCHOOL NAME **********************"
 # ******************VIDYALAYA MANAGER *****************************"
 # *******Designed and Maintained By:"
 # *******L- CLASS - ROLL NO - 2 [ 2019-2020 ]"
